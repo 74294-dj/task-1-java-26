@@ -1,1 +1,1 @@
-# task-1-java-26
+![Welcome page](images/welcome.png)
